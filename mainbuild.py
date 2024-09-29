@@ -4,7 +4,6 @@ from colors import colors
 import hobbys
 from hobbys import hobbys
 import Fixing
-import binascii
 import webbrowser
 from socialmedia import socialmedia
 
